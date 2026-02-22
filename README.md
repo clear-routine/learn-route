@@ -6,8 +6,9 @@
 
 | 主题 | 链接 |
 |------|------|
-| Spring Framework 学习路径 | [ClearRoutine/spring-learn](https://github.com/ClearRoutine/spring-learn) |
-| 简历编写学习路径 | [ClearRoutine/resume-writing](https://github.com/ClearRoutine/resume-writing) |
+| Spring Framework 学习路径 | [spring-learn](https://github.com/ClearRoutine/spring-learn) |
+| 简历编写学习路径 | [resume-writing](https://github.com/ClearRoutine/resume-writing) |
+| Java 学习路径 | [java-learn](https://github.com/clear-routine/java-learn-router) |
 
 ## 简介
 
