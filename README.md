@@ -4,8 +4,8 @@
 
 ## 学习路径
 
-| 主题 | 链接 |
-|------|------|
+| 主题 |
+|------|
 | [Spring 和 SpringMVC](https://github.com/clear-routine/spring-learn) |
 | [简历如何编写？](https://github.com/clear-routine/resume-writing) |
 | [你连 Java 怎么学都不知道？](https://github.com/clear-routine/java-learn-router) |
