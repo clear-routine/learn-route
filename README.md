@@ -6,8 +6,8 @@
 
 | 主题 | 链接 |
 |------|------|
-| Spring 和 SpringMVC | [spring-learn](https://github.com/ClearRoutine/spring-learn) |
-| 简历如何编写？ | [resume-writing](https://github.com/ClearRoutine/resume-writing) |
+| Spring 和 SpringMVC | [spring-learn](https://github.com/clear-routine/spring-learn) |
+| 简历如何编写？ | [resume-writing](https://github.com/clear-routine/resume-writing) |
 | 你连 Java 怎么学都不知道？| [java-learn](https://github.com/clear-routine/java-learn-router) |
 
 ## 简介
