@@ -6,9 +6,9 @@
 
 | 主题 | 链接 |
 |------|------|
-| Spring Framework 学习路径 | [spring-learn](https://github.com/ClearRoutine/spring-learn) |
-| 简历编写学习路径 | [resume-writing](https://github.com/ClearRoutine/resume-writing) |
-| Java 学习路径 | [java-learn](https://github.com/clear-routine/java-learn-router) |
+| Spring 和 SpringMVC | [spring-learn](https://github.com/ClearRoutine/spring-learn) |
+| 简历如何编写？ | [resume-writing](https://github.com/ClearRoutine/resume-writing) |
+| 你连 Java 怎么学都不知道？| [java-learn](https://github.com/clear-routine/java-learn-router) |
 
 ## 简介
 
