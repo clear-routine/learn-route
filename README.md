@@ -4,15 +4,12 @@
 
 ## 学习路径
 
-<div align="center">
-
-| 主题 |
-|------|
-| [Spring 和 SpringMVC](https://github.com/clear-routine/spring-learn) |
-| [简历如何编写？](https://github.com/clear-routine/resume-writing) |
-| [你连 Java 怎么学都不知道？](https://github.com/clear-routine/java-learn-router) |
-
-</div>
+<table width="100%">
+<tr><th align="center">主题</th></tr>
+<tr><td align="center">[Spring 和 SpringMVC](https://github.com/clear-routine/spring-learn)</td></tr>
+<tr><td align="center">[简历如何编写？](https://github.com/clear-routine/resume-writing)</td></tr>
+<tr><td align="center">[你连 Java 怎么学都不知道？](https://github.com/clear-routine/java-learn-router)</td></tr>
+</table>
 
 ## 简介
 
